@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>VIEW SHIP
+(pass 10 levels)</text>
+  </UIelement>
+
+  <UIelement ElementKey = "1">
+    <text>REPAIR "MANTICORE"
+(buy 6 upgrades)</text>
+  </UIelement>
+
+  <UIelement ElementKey="2">
+    <text>HIRE A TEAM
+(hire 4 people)</text>
+  </UIelement>
+
+</root>

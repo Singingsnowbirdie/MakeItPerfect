@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>START</text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>CLOSE</text>
+  </UIelement>
+
+  <UIelement ElementKey="2">
+    <text>TAKE</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>DOUBLE</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>REPAIR FOR </text>
+  </UIelement>
+
+  <UIelement ElementKey="5">
+    <text>We are expecting a ship from the raid in </text>
+  </UIelement>
+
+  <UIelement ElementKey="6">
+    <text>The ship is ready. You can go.</text>
+  </UIelement>
+
+  <UIelement ElementKey="7">
+    <text>The team is resting now.
+
+New raid available in</text>
+  </UIelement>
+
+  <UIelement ElementKey="8">
+    <text>The ship has returned from the raid with loot.</text>
+  </UIelement>
+
+  <UIelement ElementKey="9">
+    <text>The ship is damaged by </text>
+  </UIelement>
+
+  <UIelement ElementKey="10">
+    <text>Loot: </text>
+  </UIelement>
+
+  <UIelement ElementKey="11">
+    <text>The ship needs to be repaired.</text>
+  </UIelement>
+
+</root>

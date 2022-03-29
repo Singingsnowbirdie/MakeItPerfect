@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Выбрать язык</text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>Громкость музыки</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Громкость звуков</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>Вкл/выкл музыку</text>
+  </UIelement>
+  
+  <UIelement ElementKey="4">
+    <text>Вкл/выкл звуки</text>
+  </UIelement> 
+  
+  <UIelement ElementKey="5">
+    <text>ЗАКРЫТЬ</text>
+  </UIelement> 
+  
+  <UIelement ElementKey="6">
+    <text>СОЗДАТЕЛИ</text>
+  </UIelement> 
+  
+</root>

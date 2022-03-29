@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Select language</text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>Music volume</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Sound volume</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>Music on/off</text>
+  </UIelement>
+  
+  <UIelement ElementKey="4">
+    <text>Sounds on/off</text>
+  </UIelement> 
+  
+  <UIelement ElementKey="5">
+    <text>EXIT</text>
+  </UIelement> 
+  
+  <UIelement ElementKey="6">
+    <text>CREDITS</text>
+  </UIelement> 
+  
+</root>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>ОСМОТРЕТЬ КОРАБЛЬ
+(пройти 10 уровней)</text>
+  </UIelement>
+  
+  <UIelement ElementKey="1">
+    <text>ПОЧИНИТЬ "МАНТИКОРУ"
+(купить 6 улучшений)</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>НАБРАТЬ КОМАНДУ
+(нанять 4х человек )</text>
+  </UIelement>
+ 
+</root>

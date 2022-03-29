@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Yo-ho-ho, captain!
+
+You finally have your own ship.
+      
+However, before you can go to sea, you have to work hard.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="1">
+    <text>"Manticore" went to you in good condition.
+
+I mean, it could have been worse, right?
+
+Let's spend a little money on repairs.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Not enough money for improvements?
+
+Try a random adventure.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="3">
+    <text>During renovation the ship, you discovered a cache containing a rare collectible.
+
+Let's take a closer look at it.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="4">
+    <text>Excellent!         
+    
+Now the ship can be sent to the raids.       
+    
+Let's try.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="5">
+    <text>Captain, we don't have enough people!
+
+Let's hire a few more people to join the team.
+    </text>
+  </UIelement>
+  
+</root>

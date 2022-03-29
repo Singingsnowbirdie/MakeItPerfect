@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Level </text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>CONTINUE</text>
+  </UIelement>
+
+  <UIelement ElementKey="2">
+    <text>Find all pairs</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>OPEN</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>LEVEL PASS</text>
+  </UIelement>
+
+  <UIelement ElementKey="5">
+    <text>LEVEL FAILED</text>
+  </UIelement>
+
+  <UIelement ElementKey="6">
+    <text>RESTART</text>
+  </UIelement>
+
+  <UIelement ElementKey="7">
+    <text>MENU</text>
+  </UIelement>
+
+  <UIelement ElementKey="8">
+    <text>TAKE</text>
+  </UIelement>
+
+  <UIelement ElementKey="9">
+    <text>DOUBLE</text>
+  </UIelement>
+
+  <UIelement ElementKey="10">
+    <text>GET FREE</text>
+  </UIelement>
+
+  <UIelement ElementKey="11">
+    <text>BUY</text>
+  </UIelement>
+
+  <UIelement ElementKey="12">
+    <text>PLAY</text>
+  </UIelement>
+
+  <UIelement ElementKey="13">
+    <text>for</text>
+  </UIelement>
+
+  <UIelement ElementKey="14">
+    <text>Unfortunately, you don't have enough lives to continue the game, but you can buy them here.</text>
+  </UIelement>
+
+  <UIelement ElementKey="15">
+    <text>CANCEL</text>
+  </UIelement>
+
+  <UIelement ElementKey="16">
+    <text>Insufficient funds</text>
+  </UIelement>
+
+  <UIelement ElementKey="17">
+    <text>AVAILABLE</text>
+  </UIelement>
+
+  <UIelement ElementKey="18">
+    <text>ADVENTURES</text>
+  </UIelement>
+
+  <UIelement ElementKey="19">
+    <text>GO</text>
+  </UIelement>
+
+  <UIelement ElementKey="20">
+    <text>CANCEL</text>
+  </UIelement>
+
+  <UIelement ElementKey="21">
+    <text>CLOSE</text>
+  </UIelement>
+
+  <UIelement ElementKey="22">
+    <text>Dear player,
+
+We are glad that you liked our game so much that you got to this level.
+
+Unfortunately, it doesn't exist yet, but we are already working on a sequel.
+
+Thank you for staying with us.
+
+AWF team</text>
+  </UIelement>
+
+  <UIelement ElementKey="23">
+    <text>FIND THE SAME CARD</text>
+  </UIelement>
+
+  <UIelement ElementKey="24">
+    <text>Unfortunately, you don't have enough lives to continue playing. Lives will be fully restored through</text>
+  </UIelement>
+
+  <UIelement ElementKey="25">
+    <text>Pay attention!
+The award for the bonus game can be obtained only once a day.
+    </text>
+  </UIelement>
+
+  <UIelement ElementKey="26">
+    <text>The award has already been received today. </text>
+  </UIelement>
+
+  <UIelement ElementKey = "27">
+    <text>You can start a new adventure through </text>
+  </UIelement>
+
+  <UIelement ElementKey = "28">
+    <text>Find and show differences.
+
+Use hints in case of difficulties.
+
+Earn coins for each level.</text>
+  </UIelement>
+
+  <UIelement ElementKey = "29">
+    <text>You now have enough lives. You can continue playing.</text>
+  </UIelement>
+
+</root>

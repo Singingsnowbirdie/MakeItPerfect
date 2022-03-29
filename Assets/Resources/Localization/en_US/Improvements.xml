@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <!--UI-->
+
+  <UIelement ElementKey="0">
+    <text>Improvements </text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>INSUFFICIENT FUNDS</text>
+  </UIelement>
+
+  <UIelement ElementKey="2">
+    <text>EXIT</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>NO  IMPROVEMENTS  AVAILABLE</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>BUY</text>
+  </UIelement>
+
+  <UIelement ElementKey="5">
+    <text>CANCEL</text>
+  </UIelement>
+
+  <UIelement ElementKey="6">
+    <text>COST: </text>
+  </UIelement>
+
+  <UIelement ElementKey="7">
+    <text>Hired: </text>
+  </UIelement>
+
+  <UIelement ElementKey="8">
+    <text>CHOICE</text>
+  </UIelement>
+
+  <UIelement ElementKey="9">
+    <text>резерв</text>
+  </UIelement>
+  <UIelement ElementKey="10">
+    <text>резерв</text>
+  </UIelement>
+
+
+  <!--Улучшения Мантикоры-->
+
+  <UIelement ElementKey="11">
+    <text>"Irresistible Manticore"</text>
+  </UIelement>
+
+  <UIelement ElementKey="12">
+    <text>BACKFILL THE HOLE</text>
+  </UIelement>
+
+  <UIelement ElementKey="13">
+    <text>REPAIR HULL</text>
+  </UIelement>
+
+  <UIelement ElementKey="14">
+    <text>REPLACE SAIL (1/3)</text>
+  </UIelement>
+
+  <UIelement ElementKey="15">
+    <text>REPLACE SAIL (2/3)</text>
+  </UIelement>
+
+  <UIelement ElementKey="16">
+    <text>REPLACE SAIL (3/3)</text>
+  </UIelement>
+
+  <UIelement ElementKey="17">
+    <text>RAISE THE FLAG</text>
+  </UIelement>
+
+  <UIelement ElementKey="18">
+    <text>SHIP CANNON 1/3</text>
+  </UIelement>
+
+  <UIelement ElementKey="19">
+    <text>SHIP CANNON 2/3</text>
+  </UIelement>
+
+  <UIelement ElementKey="20">
+    <text>SHIP CANNON 3/3</text>
+  </UIelement>
+
+  <UIelement ElementKey="21">
+    <text>JOLLY ROGER</text>
+  </UIelement>
+
+  <UIelement ElementKey="22">
+    <text>When you have finished repairs "Manticore", then you can send it to the raids of the treasures.</text>
+  </UIelement>
+
+  <UIelement ElementKey="23">
+    <text>Each installed cannon increases your firepower and reduces damage received in the raid by 10%.</text>
+  </UIelement>
+
+  <UIelement ElementKey="24">
+    <text>
+      The Jolly Roger on your sail will intimidate opponents.
+
+      There is a 10% chance that they will surrender without a fight, and the ship will return from the raid without damage.
+    </text>
+  </UIelement>
+
+  <!--Набор команды-->
+
+  <UIelement ElementKey="25">
+    <text>"Manticore" team</text>
+  </UIelement>
+
+  <UIelement ElementKey="26">
+    <text>LOOKOUT</text>
+  </UIelement>
+  <UIelement ElementKey="27">
+    <text>CUTTHROAT</text>
+  </UIelement>
+  <UIelement ElementKey="28">
+    <text>THUG</text>
+  </UIelement>
+  <UIelement ElementKey="29">
+    <text>BOATSWAIN</text>
+  </UIelement>
+
+  <UIelement ElementKey="30">
+    <text>QUARTERMASTER</text>
+  </UIelement>
+
+  <UIelement ElementKey="31">
+    <text>PARROT</text>
+  </UIelement>
+
+  <UIelement ElementKey="32">
+    <text> Lookout warns the team in advance of the dangers. This reduces damage taken in the raid by 10%.</text>
+  </UIelement>
+
+  <UIelement ElementKey="33">
+    <text> The cutthroat increases the effectiveness of raids. The ship brings 10% more loot.</text>
+  </UIelement>
+
+  <UIelement ElementKey="34">
+    <text>Thug increases the effectiveness of raids. The ship brings 10% more loot.</text>
+  </UIelement>
+
+  <UIelement ElementKey="35">
+    <text> The boatswain is organizing a team. Rest time after the raid is reduced by 12 hours.</text>
+  </UIelement>
+
+  <UIelement ElementKey="36">
+    <text>The Quartermaster oversees the distribution of loot. From each raid, the ship brings from 1 to 3 lives.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="37">
+    <text>Parrot increases morale. The ship brings from 1 to 3 hints from each raid.</text>
+  </UIelement>
+
+
+
+</root>

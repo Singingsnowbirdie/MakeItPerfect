@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Игра от AWF Studio</text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>Разработка</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Елена Славина</text>
+  </UIelement>
+  
+  <UIelement ElementKey="3">
+    <text>Викконт</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>Художники</text>
+  </UIelement>
+
+  <UIelement ElementKey="5">
+    <text>Шрифт</text>
+  </UIelement>
+
+  <UIelement ElementKey="6">
+    <text>ВЫХОД</text>
+  </UIelement>
+
+</root>

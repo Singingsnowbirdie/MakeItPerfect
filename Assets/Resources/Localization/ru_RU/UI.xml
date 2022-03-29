@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Уровень </text>
+  </UIelement>
+  
+  <UIelement ElementKey="1">
+    <text>ПРОДОЛЖИТЬ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Найди все пары</text>
+  </UIelement>
+  
+  <UIelement ElementKey="3">
+    <text>ОТКРЫТЬ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="4">
+    <text>УРОВЕНЬ ПРОЙДЕН</text>
+  </UIelement>
+  
+  <UIelement ElementKey="5">
+    <text>УРОВЕНЬ НЕ ПРОЙДЕН</text>
+  </UIelement>
+  
+  <UIelement ElementKey="6">
+    <text>НАЧАТЬ ЗАНОВО</text>
+  </UIelement>
+  
+  <UIelement ElementKey="7">
+    <text>В МЕНЮ</text>
+  </UIelement>
+
+  <UIelement ElementKey="8">
+    <text>ЗАБРАТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="9">
+    <text>УДВОИТЬ!</text>
+  </UIelement>
+
+  <UIelement ElementKey="10">
+    <text>ПОЛУЧИТЬ БЕСПЛАТНО</text>
+  </UIelement>
+
+  <UIelement ElementKey="11">
+    <text>КУПИТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="12">
+    <text>ИГРАТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="13">
+    <text>за</text>
+  </UIelement>
+
+  <UIelement ElementKey="14">
+    <text>К сожалению, у тебя не хватает жизней для продолжения игры, но ты можешь купить их здесь.</text>
+  </UIelement>
+
+  <UIelement ElementKey="15">
+    <text>ОТМЕНА</text>
+  </UIelement>
+
+  <UIelement ElementKey="16">
+    <text>Недостаточно средств.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="17">
+    <text>ДОСТУПНО</text>
+  </UIelement>
+  
+  <UIelement ElementKey="18">
+    <text>ПРИКЛЮЧЕНИЙ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="19">
+    <text>ВПЕРЕД</text>
+  </UIelement>
+
+  <UIelement ElementKey="20">
+    <text>ОТМЕНИТЬ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="21">
+    <text>ЗАКРЫТЬ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="22">
+    <text>Уважаемый игрок,
+
+Мы рады, что тебе настолько понравилась наша игра, что ты добрался до этого уровня.
+
+К сожалению, его пока еще не существует, но мы уже работаем над продолжением.
+
+Спасибо, что остаешься с нами.
+
+Команда AWF Studio</text>
+  </UIelement>
+  
+  <UIelement ElementKey="23">
+    <text>НАЙДИ ОДИНАКОВЫЕ КАРТЫ</text>
+  </UIelement>
+  
+  <UIelement ElementKey="24">
+    <text>К сожалению, у тебя недостаточно жизней, чтобы продолжить игру. Жизни будут полностью восстановлены через</text>
+  </UIelement>
+  
+  <UIelement ElementKey="25">
+    <text>Важно! Награду за бонусную игру можно получить только раз в сутки.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="26">
+    <text>Сегодня награда уже получена. Новую награду можно будет получить через</text>
+  </UIelement>
+  
+  <UIelement ElementKey="27">
+    <text>В новое приключение можно будет отправиться через</text>
+  </UIelement>
+  
+  <UIelement ElementKey="28">
+    <text>Находи и показывай отличия. 
+    
+Используй подсказки при затруднениях. 
+  
+Зарабатывай монеты за каждый уровень.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="29">
+    <text>Теперь жизней достаточно. Можно продолжить игру.</text>
+  </UIelement>
+
+</root>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <!--UI-->
+
+  <UIelement ElementKey="0">
+    <text>Улучшений </text>
+  </UIelement>
+  <UIelement ElementKey="1">
+    <text>НЕДОСТАТОЧНО СРЕДСТВ</text>
+  </UIelement>
+  <UIelement ElementKey="2">
+    <text>ВЫХОД</text>
+  </UIelement>
+  <UIelement ElementKey="3">
+    <text>НЕТ ДОСТУПНЫХ УЛУЧШЕНИЙ</text>
+  </UIelement>
+  <UIelement ElementKey="4">
+    <text>КУПИТЬ</text>
+  </UIelement>
+  <UIelement ElementKey="5">
+    <text>ОТМЕНА</text>
+  </UIelement>
+  <UIelement ElementKey="6">
+    <text>СТОИМОСТЬ: </text>
+  </UIelement>
+  <UIelement ElementKey="7">
+    <text>Нанято: </text>
+  </UIelement>
+  <UIelement ElementKey="8">
+    <text>ВЫБОР</text>
+  </UIelement>
+  <UIelement ElementKey="9">
+    <text>резерв</text>
+  </UIelement>
+  <UIelement ElementKey="10">
+    <text>резерв</text>
+  </UIelement>
+
+  <!--Улучшения Мантикоры-->
+
+  <UIelement ElementKey="11">
+    <text>"Неотразимая мантикора"</text>
+  </UIelement>
+  <UIelement ElementKey="12">
+    <text>ЗАДЕЛАТЬ ПРОБОИНУ</text>
+  </UIelement>
+  <UIelement ElementKey="13">
+    <text>ПОЧИНИТЬ КОРПУС</text>
+  </UIelement>
+  <UIelement ElementKey="14">
+    <text>ЗАМЕНИТЬ ПАРУС (1/3)</text>
+  </UIelement>
+  <UIelement ElementKey="15">
+    <text>ЗАМЕНИТЬ ПАРУС (2/3)</text>
+  </UIelement>
+  <UIelement ElementKey="16">
+    <text>ЗАМЕНИТЬ ПАРУС (3/3)</text>
+  </UIelement>
+  <UIelement ElementKey="17">
+    <text>ПОДНЯТЬ ФЛАГ</text>
+  </UIelement>
+  <UIelement ElementKey="18">
+    <text>КОРАБЕЛЬНАЯ ПУШКА 1/3</text>
+  </UIelement>
+  <UIelement ElementKey="19">
+    <text>КОРАБЕЛЬНАЯ ПУШКА 2/3</text>
+  </UIelement>
+  <UIelement ElementKey="20">
+    <text>КОРАБЕЛЬНАЯ ПУШКА 3/3</text>
+  </UIelement>
+
+  <UIelement ElementKey="21">
+    <text>ВЕСЕЛЫЙ РОДЖЕР</text>
+  </UIelement>
+  <UIelement ElementKey="22">
+    <text>Когда ты закончишь ремонт "Мантикоры", то сможешь отправлять ее в рейды за сокровищами.</text>
+  </UIelement>
+  <UIelement ElementKey="23">
+    <text>Каждая установленная пушка повышает вашу огневую мощь и уменьшает повреждения, полученные в рейде на 10%.</text>
+  </UIelement>
+  <UIelement ElementKey="24">
+    <text>
+      "Веселый роджер" на вашем парусе устрашит противников.
+
+      Шанс 10%, что они сдадутся без боя, и корабль вернется из рейда без повреждений.
+    </text>
+  </UIelement>
+
+  <!--Набор команды-->
+
+  <UIelement ElementKey="25">
+    <text>Команда "Мантикоры"</text>
+  </UIelement>
+
+  <UIelement ElementKey="26">
+    <text>ВПЕРЕДСМОТРЯЩИЙ</text>
+  </UIelement>
+  <UIelement ElementKey="27">
+    <text>РУБАКА</text>
+  </UIelement>
+  <UIelement ElementKey="28">
+    <text>ГОЛОВОРЕЗ</text>
+  </UIelement>
+  <UIelement ElementKey="29">
+    <text>БОЦМАН</text>
+  </UIelement>
+  <UIelement ElementKey="30">
+    <text>КВАРТИРМЕЙСТЕР</text>
+  </UIelement>
+  <UIelement ElementKey="31">
+    <text>ПОПУГАЙ</text>
+  </UIelement>
+
+  <UIelement ElementKey="32">
+    <text>Впередсмотрящий заранее предупреждает команду об опасностях. Это уменьшает повреждения, полученные в рейде на 10%.</text>
+  </UIelement>
+  <UIelement ElementKey="33">
+    <text>Рубака повышает эффективность рейдов. Корабль привозит на 10% больше добычи.</text>
+  </UIelement>
+  <UIelement ElementKey="34">
+    <text>Головорез повышает эффективность рейдов. Корабль привозит на 10% больше добычи.</text>
+  </UIelement>
+  <UIelement ElementKey="35">
+    <text>Боцман организует команду. Время отдыха после рейда сокращается на 12 часов.</text>
+  </UIelement>
+  <UIelement ElementKey="36">
+    <text>Квартирмейстер следит за распределением добычи. Из каждого рейда корабль привозит от 1 до 3 жизней.</text>
+  </UIelement>
+    <UIelement ElementKey="37">
+    <text>Попугай повышает боевой дух. Из каждого рейда корабль привозит от 1 до 3 подсказок.</text>
+  </UIelement>
+
+
+
+
+
+
+
+</root>

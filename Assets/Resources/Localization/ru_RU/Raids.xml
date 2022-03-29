@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+<!--кнопки-->  
+  <UIelement ElementKey="0">
+    <text>В РЕЙД</text>
+  </UIelement>
+  
+  <UIelement ElementKey="1">
+    <text>ЗАКРЫТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="2">
+    <text>ЗАБРАТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="3">
+    <text>УДВОИТЬ</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>ЧИНИТЬ ЗА </text>
+  </UIelement>
+  
+  <UIelement ElementKey="5">
+    <text>Ожидаем корабль из рейда через </text>
+  </UIelement>
+  
+  <UIelement ElementKey="6">
+    <text>Корабль готов. Можно отправляться.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="7">
+    <text>Команда сейчас отдыхает. 
+    
+    В новый рейд можно будет отправиться через </text>
+  </UIelement>
+  
+  <UIelement ElementKey="8">
+    <text>Корабль вернулся из рейда c добычей.</text>
+  </UIelement>
+  
+  <UIelement ElementKey="9">
+    <text>Корабль поврежден на </text>
+  </UIelement>
+  
+  <UIelement ElementKey="10">
+    <text>Добыча: </text>
+  </UIelement>
+  
+  <UIelement ElementKey="11">
+    <text>Корабль нуждается в починке.</text>
+  </UIelement>
+ 
+</root>

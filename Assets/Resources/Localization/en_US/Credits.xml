@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+
+  <UIelement ElementKey="0">
+    <text>Game by AWF Studio</text>
+  </UIelement>
+
+  <UIelement ElementKey="1">
+    <text>Gamedev</text>
+  </UIelement>
+  
+  <UIelement ElementKey="2">
+    <text>Elena Slavina</text>
+  </UIelement>
+  
+  <UIelement ElementKey="3">
+    <text>Vikkont</text>
+  </UIelement>
+
+  <UIelement ElementKey="4">
+    <text>Artists</text>
+  </UIelement>
+  
+  <UIelement ElementKey="5">
+    <text>Font</text>
+  </UIelement>
+
+  <UIelement ElementKey="6">
+    <text>EXIT</text>
+  </UIelement>
+
+
+
+
+</root>
